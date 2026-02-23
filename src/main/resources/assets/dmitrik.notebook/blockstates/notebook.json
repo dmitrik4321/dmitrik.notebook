@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dmitrik.notebook:block/notebook"
+    }
+  }
+}
